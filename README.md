@@ -2,3 +2,4 @@
 * git initi
 * git add
 * git commit
+* git push
