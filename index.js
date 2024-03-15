@@ -10,6 +10,7 @@ function login(usrname, password) {
     }
 }
 function logout() {
+    // 쿠키 삭제 cookie 삭제
     console.log("로그아웃")
 }
 
@@ -21,6 +22,6 @@ function rebase1() {
 
 }
 
-function rebase1() {
+function rebase2() {
     
 }
